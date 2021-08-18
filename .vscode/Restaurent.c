@@ -17,7 +17,7 @@ struct Node
 
 typedef struct Node node;
 
-///Global Type
+///Global Type Veriable
 node *head, *menu;
 
 int credit_card[20];
