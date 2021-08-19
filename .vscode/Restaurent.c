@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <conio.h>
 
-///Struct Node
+///Struct Nod
 
 struct Node
 {
